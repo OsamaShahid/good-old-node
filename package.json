@@ -1,0 +1,21 @@
+{
+  "name": "plain-old-node",
+  "version": "1.0.0",
+  "description": "This repo contains code to create http and https server and socket server without using any frameworks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "git+https://github.com/websockets/ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsamaShahid/plain-old-node/issues"
+  },
+  "homepage": "https://github.com/OsamaShahid/plain-old-node#readme"
+}
